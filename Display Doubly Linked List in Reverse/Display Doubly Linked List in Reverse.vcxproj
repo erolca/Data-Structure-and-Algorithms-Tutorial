@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{AF9D1FC7-C123-4CD0-88A8-F57FEFA46260}</ProjectGuid>
+    <ProjectGuid>{8C07EEA1-0A2F-43A6-98FA-FEC036836B03}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CExamplesCombineTwoDoublyLinkedList</RootNamespace>
+    <RootNamespace>DisplayDoublyLinkedListinReverse</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Combine Two Doubly Linked List</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C Examples Combine Two Doubly Linked List.cpp" />
+    <ClCompile Include="Display Doubly Linked List in Reverse.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

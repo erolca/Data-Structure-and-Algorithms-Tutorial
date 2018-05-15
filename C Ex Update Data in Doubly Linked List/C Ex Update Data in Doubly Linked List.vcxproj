@@ -20,11 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{AF9D1FC7-C123-4CD0-88A8-F57FEFA46260}</ProjectGuid>
+    <ProjectGuid>{D5687C16-A1B6-435C-85DE-60F663E89E9E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CExamplesCombineTwoDoublyLinkedList</RootNamespace>
+    <RootNamespace>CExUpdateDatainDoublyLinkedList</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Combine Two Doubly Linked List</ProjectName>
+    <ProjectName>Update Data in Doubly Linked List</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,7 +152,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C Examples Combine Two Doubly Linked List.cpp" />
+    <ClCompile Include="C Ex Update Data in Doubly Linked List.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
