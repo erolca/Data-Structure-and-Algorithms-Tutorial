@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Split Circular Linked List.cpp">
+    <ClCompile Include="find Singly Linked List Size.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
